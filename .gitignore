@@ -1,0 +1,8 @@
+# Pastas da IDE
+.idea/
+.vscode/
+bin/
+out/
+
+# Arquivos temporários do Windows
+Thumbs.db
